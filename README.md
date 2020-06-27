@@ -1,6 +1,6 @@
-# study-go
-#purpose
-・study Go/Gin
+# study-go\\
+#purpose\\
+・study Go/Gin\\
 ・study Git and GitHub
 
 ##reference()
